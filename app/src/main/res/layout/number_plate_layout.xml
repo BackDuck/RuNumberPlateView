@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="3dp"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:background="@null"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/number" />
+
+    <EditText
+        android:id="@+id/region"
+        android:layout_width="68dp"
+        android:layout_height="50dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginTop="0dp"
+        android:textSize="30sp"
+        android:inputType="number"
+        android:maxLength="3"
+        android:background="@null"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textAlignment="center" />
+
+
+</merge>

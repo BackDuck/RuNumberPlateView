@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RuNumberPlateView</string>
+
+    <!--- filters -->
+    <string name="filter_1">KNNNKK</string>
+    <string name="filter_2">KKNNN</string>
+    <string name="filter_3">NNNNKK</string>
+    <string name="filter_4">NNNLLN</string>
+    <string name="filter_5">KNNNN</string>
+    <string name="filter_6">KKNNNK</string>
+    <!--- filters end -->
+
+    <!-- plates -->
+    <integer name="CIVIL_CAR_PLATE">1</integer>
+    <integer name="TAXI_CAR_PLATE">2</integer>
+    <integer name="MILITARY_CAR_PLATE">3</integer>
+    <integer name="DIPLOMATIC_CAR_PLATE">4</integer>
+    <integer name="POLICE_CAR_PLATE">5</integer>
+    <integer name="TRANSIT_CAR_PLATE">6</integer>
+    <!-- plates end-->
+
+    <!-- hints list -->
+    <string name="hint_1">А777АА</string>
+    <string name="hint_2">АА777</string>
+    <string name="hint_3">7777АА</string>
+    <string name="hint_4">777DD7</string>
+    <string name="hint_5">А7777</string>
+    <string name="hint_6">АА777А</string>
+    <string name="hint_region">777</string>
+    <!-- hints list end-->
+</resources>
